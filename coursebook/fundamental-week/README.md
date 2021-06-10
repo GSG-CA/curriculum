@@ -16,11 +16,11 @@
 — BREAK —
 
 - 13:30 - 15:30 <br>
-[Intro to JS](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/intro-to-js.md)
+[Intro to JS](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/intro-to-js.md)
 
-  [Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/variables-and-constants.md)
+  [Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/variables-and-constants.md)
 
-  [Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/data-types.md)
+  [Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/data-types.md)
 
 
 ## Day 2
@@ -36,15 +36,15 @@
 — BREAK —
 
 - 13:30 - 15:30 <br>
-[Javascript Operators](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-10/operators.md)
+[Javascript Operators](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/operators.md)
 
 - 15:30 - 16:30 <br>
-[Array Methods](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2005/session-14/array-methods.md)
+[Array Methods](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-10/array-methods.md)
 
 ## Day 3
 
 - 09:00 - 10:00 <br>
-[JavaScript Objects](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2005/session-13/javascript-objects.md)
+[JavaScript Objects](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/javascript-objects.md)
 
 - 10:00 - 10:30 <br>
 [Into to Project](./project.md)
