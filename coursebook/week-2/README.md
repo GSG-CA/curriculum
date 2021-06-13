@@ -15,15 +15,15 @@
   [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
 - 09:30 - 10:00 <br>
-  [Introduction to testing and TDD](https://github.com/mossa-Sammer/testing-tdd-intro)
+  [Introduction to testing and TDD](https://github.com/GSG-G10/testing-tdd-intro)
 
 - 10:00 - 12:00 <br>
-  [Jest (TDD) workshop](https://github.com/ali-7/fizzbuzz)
+  [Jest (TDD) workshop](https://github.com/GSG-G10/fizzbuzz)
 
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  [Roman numerals TDD code-along](https://github.com/Asmaathabet/Roman-Numerals)
+  [Roman numerals TDD code-along](https://github.com/GSG-G10/Roman-Numerals)
 
 - 15:00 - 17:00 <br>
   [Intro to Functions](./intro-to-functions-slides.md)
@@ -34,7 +34,7 @@
   [ES6 morning challenge](./es-6-morning-challenge.md)
 
 - 10:30 - 12:30 <br>
-  [Pure functions workshop](https://github.com/ali-7/ws-pure-functions-easy-testing)
+  [Pure functions workshop](https://github.com/GSG-G10/pure-functions-easy-testing-ws)
 
 — BREAK —
 
@@ -50,7 +50,7 @@
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  [Traffic Light Callbacks](https://github.com/ali-7/morning-challenge-traffic-lights)
+  [Traffic Light Callbacks](https://github.com/GSG-G10/morning-challenge-traffic-lights)
 
 - 10:00 - 12:00 <br>
   Projects
