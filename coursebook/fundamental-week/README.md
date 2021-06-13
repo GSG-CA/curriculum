@@ -11,7 +11,7 @@
 [Intro to Pair Programming](https://blog.developer.atlassian.com/try-pair-programming/)
 
 - 10:30 - 12:30 <br>
-[Terminal](https://github.com/ali-7/terminal-ws)
+[Terminal](./terminal-ws)
 
 — BREAK —
 
@@ -31,7 +31,7 @@
   Morning Challenge 
 
 - 10:00 - 12:30 <br>
-[Git & Github](https://github.com/ali-7/git-and-github-ws)
+[Git & Github](./git-and-github-ws)
 
 — BREAK —
 

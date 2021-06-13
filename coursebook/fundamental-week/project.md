@@ -2,7 +2,7 @@
 
 ## HTML, CSS, and JavaScript Project
 
-**Create a GitHub repo on G9 org and use `git` command to push your code, also deploy it to `Github pages`.**
+**Create a GitHub repo on G10 org and use `git` command to push your code, also deploy it to `Github pages`.**
 
 User Stories:
 
