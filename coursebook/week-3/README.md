@@ -9,15 +9,15 @@
 ### Day 1
 
 - 09:00 - 11:00 <br>
-  [Introducing APIs](https://github.com/ali-7/api-workshop)
+  [Introducing APIs](https://github.com/GSG-G10/api-workshop)
 
 - 11:00 - 12:00 <br>
-  [XHR workshop](https://github.com/ali-7/xhr-workshop)
+  [XHR workshop](https://github.com/GSG-G10/xhr-workshop)
 
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  [GitHub API workshop](https://github.com/ali-7/ws-github-api)
+  [GitHub API workshop](https://github.com/GSG-G10/ws-github-api)
 
 - 15:00 - 17:00 <br>
   Q & A
@@ -25,7 +25,7 @@
 ### Day 2
 
 - 09:00 - 12:00 <br />
-  [Software Design Workshop](https://github.com/ali-7/ws-software-design-js)
+  [Software Design Workshop](https://github.com/GSG-G10/ws-software-design-js)
 
 — BREAK —
 
