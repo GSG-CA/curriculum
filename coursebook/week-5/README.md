@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 12:00 <br>
-  [Workshop on error handling](https://github.com/GSG-G9/error-handling-workshop)
+  [Workshop on error handling](https://github.com/GSG-G10/error-handling-workshop)
 
   — BREAK —
 
@@ -20,12 +20,12 @@
   [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
   
 - 13:15 - 17:00 <br>
-  [Express-Workshop](https://github.com/ali-7/express-workshop)
+  [Express-Workshop](https://github.com/GSG-G10/express-workshop)
   
 ### Day 2
 
 - 09:00 - 11:00 <br>
-  [Creating and Testing Express Routes](https://github.com/ali-7/express-and-testing-workshop)
+  [Creating and Testing Express Routes](https://github.com/GSG-G10/express-and-testing-workshop)
 
 - 11:00 - 12:00 <br>
   [Continuous Integration](./CI.md)
@@ -37,7 +37,7 @@
   [Introduce Project](./project.md)
 
 - 13:15 - 15:00 <br>
-  [Promises](https://github.com/GSG-G8/mc-promise-me-this)
+  [Promises](https://github.com/GSG-G10/mc-promise-me-this)
   
 - 15:00 - 16:00 <br>
   [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
