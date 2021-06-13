@@ -84,9 +84,9 @@ git log  // Show commit logs
 
 ### Connect to github
 
-- Create a `repo` without selecting the `README.md` option. For an example `g9` repo, then you will see this screen below.
+- Create a `repo` without selecting the `README.md` option. For an example `g10` repo, then you will see this screen below.
 
-![g9](https://i.imgur.com/sps8BQE.png)
+![g10](https://i.imgur.com/sps8BQE.png)
 
 - Let's do an [exercise](./exercises/ex2.md)
 
