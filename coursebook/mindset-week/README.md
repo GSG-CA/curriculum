@@ -49,7 +49,7 @@
   [Intro to Web development](intro-to-web.md)
 
 - 11:00 - 12:00 <br>
-  Intro to best coding practices
+  [Intro to best coding practices](https://docs.google.com/presentation/d/1INJdi77Lcdrnf-vwfGzibnHpuR0hzCF-B_sqnPIKBME/edit#slide=id.p)
 
 - 12:00 - 12:30 <br>
   Code Review exercise
