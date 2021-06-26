@@ -3,6 +3,8 @@
 Welcome to the coursebook for GSG Code Academy G10!
 
 The first eight weeks will provide you with the necessary building blocks for creating a web app:
+* [Mindset Week](mindset-week/README.md) - Mindset
+* [Fundamentals Week](fundamental-week/README.md) - Fundamentals
 * [Week 1](week-1/README.md) - Toolkit
 * [Week 2](week-2/README.md) - Testing
 * [Week 3](week-3/README.md) - APIs
