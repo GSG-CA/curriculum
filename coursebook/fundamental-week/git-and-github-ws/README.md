@@ -86,7 +86,7 @@ git log  // Show commit logs
 
 - Create a `repo` without selecting the `README.md` option. For an example `g10` repo, then you will see this screen below.
 
-![g10](https://i.imgur.com/sps8BQE.png)
+![g10](https://user-images.githubusercontent.com/42492094/123519777-f7380380-d6b5-11eb-8215-0343dbbc3f66.png)
 
 - Let's do an [exercise](./exercises/ex2.md)
 
