@@ -3,7 +3,7 @@
 ## Contents
 
 - [Project](./project.md)
-- [Resources](./resources)
+- [Resources](./resources.md)
 
 ## Day 1
 
