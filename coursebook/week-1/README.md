@@ -12,10 +12,11 @@
 - 09:00 - 10:00 — [DOM Morning Challenge](https://github.com/GSG-G10/DOM-manipulation-Challenge)
 - 10:00 - 11:30 — [Layout](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2001/session-02/layout.md)
 - 11:30 - 12:30 — [Position](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2001/session-02/position.md)
-— BREAK —
+  — BREAK —
 
 - 13:30 - 15:30 — [Flexbox](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2001/session-02/flexbox.md)
-- 15:30 - 17:00 — [Assignment](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/assignment.md)
+- 15:30 - 16:10 — [flexbox froggy](https://flexboxfroggy.com/)
+- 16:10 - 17:00 — [Assignment](https://github.com/GSG-G10/flexbox-exercise)
 
 ## Day 2
 
