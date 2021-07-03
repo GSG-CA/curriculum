@@ -237,11 +237,3 @@ This allows the default alignment (or the one specified by `align-items`) to be 
   align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
 ```
-
-## 🔸 Exercise 
-
-### ✨ We have a brilliant practical exercise for you which we will solve together
-
-
-
-
