@@ -14,8 +14,8 @@
 - 11:30 - 12:30 — [Position](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2001/session-02/position.md)
 — BREAK —
 
-- 13:30 - 15:30 — [Flexbox](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2001/session-02/flexbox.md)
-- 15:30 - 17:00 — [Assignment](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/assignment.md)
+- 13:30 - 15:30 — [Flexbox](./Flexbox.md)
+- 15:30 - 17:00 — [Flexbox Exercise](https://flexboxfroggy.com/#ar)
 
 ## Day 2
 
