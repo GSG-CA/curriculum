@@ -14,7 +14,7 @@ and there is something else you have to know before dive in flex box, as we said
 
 let's begin with simple example, let's add some boxes (flex elements) inside a conatiner (flex container):
 
-```htmlembedded=
+```html
 <div class="container">
   <div class="box">1</div>
   <div class="box">2</div>
@@ -24,7 +24,7 @@ let's begin with simple example, let's add some boxes (flex elements) inside a c
 </div>
 ```
 
-```css=
+```css
 /* Flex Container */
 .container {
   display: flex;
@@ -56,7 +56,7 @@ and this is the most basic usage of flexbox, now let's play with the direction o
 
 <img src="https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg" alt="flex-direction" width="500"/>
 
-```css=
+```css
 .container{
     flex-direction: row | row-reverse | column | column-reverse;
 }
@@ -76,7 +76,7 @@ and this is the most basic usage of flexbox, now let's play with the direction o
 
 By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property.
 
-```css=
+```css
 .container{
     flex-wrap: nowrap | wrap | wrap-reverse;
 }
@@ -95,7 +95,7 @@ This defines the alignment along the main axis. It helps distribute extra free s
 
 <img src="https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg" alt="justify-content" width="400"/>
 
-```css=
+```css
 .container{
     justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
 }
@@ -118,7 +118,7 @@ This defines the default behavior for how flex items are laid out along the **cr
 
 <img src="https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg" alt="align-items" width="400"/>
 
-```css=
+```css
 .container{
     align-items: stretch | flex-start | flex-end | center | baseline;
 }
@@ -142,7 +142,7 @@ This aligns a flex container’s lines within when there is extra space in the c
 
 > Note: This property only takes effect on multi-line flexible containers, where flex-flow is set to either wrap or wrap-reverse). A single-line flexible container (i.e. where flex-flow is set to its default value, no-wrap) will not reflect align-content.
 
-```css=
+```css
 .container{
     align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch;
 }
@@ -176,7 +176,7 @@ Flexbox provides a way to determine the order of each element, which is a proper
 flexbox start placing elements from lower to larger values
 example:
 
-```css=
+```css
 .box-1 {
     order:2;
 }
@@ -208,7 +208,7 @@ This defines the ability for a flex item to grow if necessary. It accepts a unit
 
 If all items have flex-grow set to 1, the remaining space in the container will be distributed equally to all children. If one of the children has a value of 2, the remaining space would take up twice as much space as the others (or it will try to, at least).
 
-```css=
+```css
 .item {
   flex-grow: 4; /* default 0 */
 }
@@ -219,7 +219,7 @@ Negative numbers are invalid.
 
 This defines the ability for a flex item to shrink if necessary.
 
-```css=
+```css
 .item {
   flex-shrink: 3; /* default 1 */
 }
@@ -232,7 +232,7 @@ Negative numbers are invalid.
 
 This allows the default alignment (or the one specified by `align-items`) to be overridden for individual flex items.
 
-```css=
+```css
 .item {
   align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
