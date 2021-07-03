@@ -1,6 +1,6 @@
 # Flexbox
 
-flexbox is technique to layout,organize and distribute HTML elements in efficient way,also manage the space between elements in more sophisticated way.
+Flexbox is a technique to layout,organize and distribute HTML elements in efficient way,also manage the space between elements in more sophisticated way.
 
 
 In flexbox, there are two main components you have to recognize them before start play around with flexbox which are **flex-container**, **flex-elements**
