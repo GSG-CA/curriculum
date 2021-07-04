@@ -16,7 +16,7 @@
 - 13:30 - 15:30 — [Flexbox](./Flexbox.md)
 - 15:30 - 16:10 — [flexbox froggy](https://flexboxfroggy.com/)
 - 16:20 - 16:30 — [Assignment Intro](https://github.com/GSG-G10/flexbox-exercise)
-- 16:30 - 17:30 - [Intro to Computer Science](https://docs.google.com/presentation/d/1gPRWIK3u9AqnQ9bS6seECHhjnbAI1stsOPAg6Al6tLU/edit#slide=id.g79a1b2df04_0_441)
+- 16:30 - 17:30 — [Intro to Computer Science](https://docs.google.com/presentation/d/1gPRWIK3u9AqnQ9bS6seECHhjnbAI1stsOPAg6Al6tLU/edit#slide=id.g79a1b2df04_0_441)
 
 ## Day 2
 
