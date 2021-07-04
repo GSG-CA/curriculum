@@ -20,9 +20,9 @@
 
 ## Day 2
 
-- 09:00 - 10:00 — Morning Challenge
-- 10:00 - 12:00 — [Git workshop](https://github.com/GSG-G10/git-workflow-workshop-for-two)
-- 12:00 - 12:30 — Introduce [Project](./project.md)
+- 09:00 - 09:30 — Assignment Discussion
+- 09:30 - 10:30 — [DOM Morning Challenge](https://github.com/GSG-G10/DOM-manipulation-Challenge)
+- 10:30 - 12:30 — [Git workshop](https://github.com/GSG-G10/git-workflow-workshop-for-two)
 
 — BREAK —
 
@@ -33,7 +33,8 @@
 
 - 09:00 - 10:00 — [Morning Challenge - CSS](https://hackmd.io/kQio8HXGSzy2PGisL30OIg?view)
 - 10:00 - 11:00 — [Grid View](https://hackmd.io/5NOaJKJfRQCdMFa2edIL7A)
-- 11:00 - 12:30 — Projects
+- 11:00 - 11:20 — Introduce [Project](./project.md)
+- 11:20 - 12:30 — Projects
 
 — BREAK —
 
