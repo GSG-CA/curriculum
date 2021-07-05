@@ -1,36 +1,50 @@
 ## Project
 
-### Build a one-page portfolio website for you and your team
+### Build a news Website!
 
-We want you to work together over the next few days to build a small site from scratch that provides a short portfolio for you and your team.
+We want you to work together over the next couple of days to build a small news site using Flexbox.
 
 To describe what features should be implemented, these are the [user stories](https://en.wikipedia.org/wiki/User_story) that should be satisfied;
 
-As a **client looking to hire a team of developers**
+#### For the News Website:
+As a **person looking to read the latest news**
 
-> I want to **visit your site and immediately see a headline about your team**
+> I want to **visit your site and immediately see the most important news in a special section**
 
-> So that I **get a concise description of what you have to offer me**.
+> So that I **quickly know what's going on around the world**.
 
-As a **client looking to hire a team of developers**
+As a **person looking to read the latest news**
 
-> I want to **visit your site and see a navigation link for 'About, Team, and Contact'**
+> I want to **visit your site and see a navigation link for the different page sections**
 
 > so I can **quickly navigate to the areas of the site I'd like to visit.**
 
-As a **client looking to hire a team of developers**
+As a **person looking to read the latest news**
 
-> I want to **be able to contact the developers by filling out and submitting a form by providing my name, email and message information**
+> I want to **see the different news sections and each section should contain its related news (e.g. Politics, Sport, Economy, Tech ...etc )**
 
-> So that **the team have sufficient information to contact me afterwards**
+> So **I can read about any topic separately**
 
-As a **client looking to hire a team of developers**
+As a **person looking to read the top blogs**
 
-> I want to **click on a navigation link and a corresponding section be made visible in the browser window on the same page**
+> I want to **see a separate section aside from the page, that contains the most read articles**
 
-> So that I **can quickly navigate around the site without having to wait for new pages to be loaded.**
+> So I **can quickly find them without a headache**
 
-As a **client looking to hire a team of developers**
+As a **person looking to read the news in detail**
+
+> I want to **see a separate page that contains the news details (a photo, text description) and any related news**
+
+> So I **can know the details of the news**
+
+As a **person looking to read the news in detail**
+
+> I want to **be able to add my opinion about the news, which will be added to the list of others opinions**
+
+> So I **can express my feelings/opinions**
+
+
+As a **person looking to read the news**
 
 > I want to **easily view the site when browsing on my mobile, tablet or desktop**
 
@@ -48,11 +62,15 @@ Your repo should contain a README file with these three points -
 
 You may also add more ambitious features in the README which describes **stretch goals**. Feel free to add the user stories from this project guide into your README too.
 
-When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other. **Please note that although in the [git workshop](https://github.com/Rawan96/git-workflow-workshop-for-two) you were instructed to work in pairs and merge each other's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!**
+When working together, groups should split into pairs to complete project tasks as the following:
+
+- One pair work on the main page.
+- One pair work on the news details page.
+
+**Please note that although in the [git workshop](https://github.com/GSG-G10/git-workflow-workshop-for-two) you were instructed to work in pairs and merge each other's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!**
 
 However you decide to individualise your site is up to you, but aim to satisfy the user stories.
 
-Your blog should have profiles of each of your group members and each profile should include links to your _Linkedin_, _Github_ and _Codewars_ accounts.
 
 - On completion, your site should be published via **_github pages_**. You may decide to publish early (perhaps to check how it looks on mobile?)
 - Your **README** should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site).
@@ -60,6 +78,11 @@ Your blog should have profiles of each of your group members and each profile sh
 ## Tips
 
 - Try drawing out rough sketches of your site first and agree on a design to work towards throughout the project
+    -  You can get inspired by: 
+        -  [BBC NEWS](https://www.bbc.com/)
+        -  [AlJazeera](https://www.aljazeera.net/)
+        -  [Maan](https://www.maannews.net/)
+        -  [The Washington Post](https://www.washingtonpost.com/)
 - Adding issues to your github repo is highly recommended, so you can easily keep track of what needs to be done/resolved, and who should be responsible.
 - You ~~may~~ will encounter merge conflicts when working together on the same files. Don't panic, discuss the conflicts with your team before reaching a resolution.
 - If you decide to use and stick to a particular naming convention for your CSS classes before starting the project then that's awesome! At the very least, aim to organise your CSS rules so they grouped together well and use clear descriptive class names.
