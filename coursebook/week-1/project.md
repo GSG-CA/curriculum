@@ -13,13 +13,13 @@ As a **person looking to read the latest news**
 
 > So that I **quickly know what's going on around the world**.
 
-As a **person looking to read the latest news**
+As a **person looking to read the news**
 
 > I want to **visit your site and see a navigation link for the different page sections**
 
 > so I can **quickly navigate to the areas of the site I'd like to visit.**
 
-As a **person looking to read the latest news**
+As a **person looking to read the news**
 
 > I want to **see the different news sections and each section should contain its related news (e.g. Politics, Sport, Economy, Tech ...etc )**
 
