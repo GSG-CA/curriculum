@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 09:30 <br>
-  [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+  [Intro to NPM](https://github.com/GSG-G10/npm-introduction)
 
 - 09:30 - 10:00 <br>
   [Introduction to testing and TDD](https://github.com/GSG-G10/testing-tdd-intro)
