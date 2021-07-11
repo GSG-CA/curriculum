@@ -33,26 +33,30 @@
 - 09:00 - 10:30 <br>
   [ES6 morning challenge](./es-6-morning-challenge.md)
 
-- 10:30 - 12:30 <br>
-  [Pure functions workshop](https://github.com/GSG-G10/pure-functions-easy-testing-ws)
+- 10:30 - 13:00 <br>
+  [Intro to Functions](./intro-to-functions-slides.md)
 
 — BREAK —
 
-- 13:30 - 14:00 <br>
-  [Intro to Project](./project.md)
+- 14:00 - 16:00 <br>
+  [Pure functions workshop](https://github.com/GSG-G10/pure-functions-easy-testing-ws)
 
-- 14:00 - 16:30 <br>
-  [Intro to Functions](./intro-to-functions-slides.md)
+
+- 16:00 - 16:30 <br>
+  [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 - 16:30 - 17:00 <br>
-  [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  [Intro To Project](https://github.com/GSG-G10/curriculum/blob/main/coursebook/week-2/project.md)
 
 ### Day 3
 
 - 09:00 - 10:00 <br>
   [Traffic Light Callbacks](https://github.com/GSG-G10/morning-challenge-traffic-lights)
 
-- 10:00 - 12:00 <br>
+- 10:00 - 11:00 <br>
+  Computer Science Session
+
+- 11:00 - 12:00 <br>
   Projects
 
 — BREAK —
@@ -72,10 +76,11 @@
 
 ### Day 5
 
-- 09:00 - 10:00 — Code review
+- 09:00 - 09:15 — [How to code review](https://github.com/GSG-G10/curriculum/blob/main/coursebook/week-1/codereviewintro.md)
+- 09:15 - 10:00 — Code review
 - 10.00 - 11:00 — Respond to issues and plan presentations
-- 11:00 - 12:00 — Projects Presentation
+- 11:00 - 13:00 — Projects Presentation
 
 — BREAK —
 
-- 13:00 - 17:00 — External Workshops
+- 14:00 - 17:00 — External Workshops
