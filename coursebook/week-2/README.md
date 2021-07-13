@@ -65,9 +65,6 @@
   Projects
 
 ### Day 4
-
-- 09:00 - 10:00 <br>
-  Toy Problem
   
 - 09:00 - 12:00 <br>
   Projects
