@@ -41,6 +41,9 @@
 - 10:00 - 10:30 <br>
   [Introduction to linters](./linter.md)
 
+- 10:30 - 11:30 <br>
+  Computer Science Session
+  
 - 10:30 - 12:00 <br>
   Projects
 
