@@ -37,7 +37,7 @@
 
 ### Day 3
 
-- 09:00 - 10:00 <br> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
+- 09:00 - 10:00 <br> [Waterfall morning challenge](https://github.com/GSG-G10/mc-waterfall-chaser)
 
 - 10:00 - 10:30 <br>
   [Introduce Project](./project.md)
