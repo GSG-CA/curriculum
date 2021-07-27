@@ -44,7 +44,7 @@
 - 10:30 - 11:30 <br>
   Computer Science Session
   
-- 10:30 - 12:00 <br>
+- 11:30 - 12:00 <br>
   Projects
 
 — BREAK —
