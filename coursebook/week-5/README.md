@@ -40,7 +40,7 @@
   [Promises](https://github.com/GSG-G10/mc-promise-me-this)
   
 - 15:00 - 16:00 <br>
-  [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
+  [Client Side Validation](https://github.com/GSG-G10/client-side-validation)
   
 
 ### Day 3
