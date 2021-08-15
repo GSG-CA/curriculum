@@ -46,10 +46,10 @@
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  Computer Science Session
+  [DB morning challenge](https://github.com/GSG-G10/db-morning-challenge)
 
 - 10:00 - 11:00 <br>
-  [DB morning challenge](https://github.com/GSG-G10/db-morning-challenge)
+  Computer Science Session
 
 - 11:00 - 12:00 <br>
   Projects
