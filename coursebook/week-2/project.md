@@ -28,7 +28,7 @@
 - The app should be responsive, and should save its state even after closing the page `local storage`
 
 **Hints:**
-* The product item could be something lik this objec
+* The product item could be something like this object
 
   ```js
   {
