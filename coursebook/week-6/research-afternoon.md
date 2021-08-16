@@ -13,10 +13,22 @@
 ### Script injections / safety issues
   - What is a script injection and how do these happen?
   - How would you prevent script injections?
+  - What is the Parameterized query?
   - Prepare a short demonstration of good (and bad?) practices, including some sample code
+
   
 ### SQL vs NoSQL database
   - What’s SQL, NoSQL and what’s the difference between them?
   - When do we use each and why?
   - What’s the advantages and disadvantages.
 
+### Transactions in SQL Server
+  - What Is a Transaction? and when to use?
+  - Transaction State and Specifying Transaction Boundaries.
+  - How to code transaction? and what if it fail's
+
+### Modify schema of production sql database
+  - What Is Altering tables?
+  - What is downtime in this case?
+  - How to Update your Database Schema Without Downtime
+   
