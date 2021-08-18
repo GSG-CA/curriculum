@@ -61,10 +61,7 @@
 
 ### Day 4
 
-- 09:00 - 10:00 <br>
-  Toy Problem
-
-- 10:00 - 12:00 <br>
+- 9:00 - 12:00 <br>
   Projects
 
 — BREAK —
