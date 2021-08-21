@@ -23,9 +23,10 @@ Create a reddit clone to test what you have learned over the past eight weeks.
 * User should be able to comment on a comment
 
 # Side Notes
+* Your website must be accessible and responsive (search engine optimized, as well as suitable for use by people with disabilities and special needs).
 
-* Website must be accessible and responsive (search engine optimized, as well as suitable for use by people with disabilities and special needs).
-
-* Must be properly tested.
+* Your must be properly tested.
 
 * Errors must be properly handled (No console.log(error)).
+
+* Deploying your website is a plus.
