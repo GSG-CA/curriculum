@@ -1,12 +1,12 @@
 # Checklist of things to think about & challenges after first 8 weeks
 
-A checklist of things to look at and see if you can answer after the first eight weeks of the Founders And Coders curriculum.
+A checklist of things to look at and see if you can answer after the first eight weeks of the program.
 
 This is **long** and somewhat difficult in places - you probably won't be able to thoroughly look through all of it! Instead **look at the things you think are most challenging first** 
 
 You should definitely not be concerned if you can't answer everything yet - 8 weeks is not enough time to come to grips with it all! 
 
-Think of this as a learning aid to help you find the things you don't understand, and then ask your fellow students/mentors on gitter! After the break maybe we can find a time to talk about it as a cohort to find things people struggle with.
+Think of this as a learning aid to help you find the things you don't understand, and then ask your fellow students/mentors on discord! After the break maybe we can find a time to talk about it as a cohort to find things people struggle with.
 
 It is roughly in order of when it was taught, but look at it in whichever order you choose.
 
@@ -26,7 +26,6 @@ For the challenges, I suggest you open a repo, and save them all there.
 - [Deploying](#deploying)
 - [Auth](#auth)
 - [Express](#express)
-- [Handlebars](#handlebars)
 - [Coding Best Practices](#coding-best-practices)
 
 ---
@@ -61,7 +60,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 ---
 
 ### Javascript
-- Using these array and string methods:
+- #### Using these array and string methods:
 	-   `.map()`
 	-   `.filter()`
 	-   `.find()`
