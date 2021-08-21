@@ -1,7 +1,7 @@
 # Reddit Clone
 Create a reddit clone to test what you have learned over the past eight weeks.
 
-#Website Link [Here](https://www.reddit.com/).
+# Website Link [Here](https://www.reddit.com/).
 
 # User Stories:
 * User can sign up and login.
