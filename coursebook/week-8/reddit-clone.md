@@ -29,4 +29,4 @@ Create a reddit clone to test what you have learned over the past eight weeks.
 
 * Errors must be properly handled (No console.log(error)).
 
-* Deploying your website is a plus.
+* Deploying your website is a must.
