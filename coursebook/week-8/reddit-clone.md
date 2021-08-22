@@ -14,13 +14,9 @@ Create a reddit clone to test what you have learned over the past eight weeks.
 
 * User should be able to click on a "Create Post" button and see a modal to create a new Post
 
-* User should be able to vote on a post
+* User should be able delete thier own posts.
 
-* User should be able to create a Comment on a Post
-
-* User should be able to vote on a Comment
-
-* User should be able to comment on a comment
+* User should be able to create a comment on a Post
 
 # Side Notes
 * Your website must be accessible and responsive (search engine optimized, as well as suitable for use by people with disabilities and special needs).
