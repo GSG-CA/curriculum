@@ -22,3 +22,8 @@
   + Cross Site Scripting (XSS)
   + Cross Site Request Forgery (CSRF)
 + How can you defend against each of them?
+
+### OAuth
++ What Is OAuth and Why to use? 
++ OAuth and APIs, How OAuth Is Used to Access APIs?
++ OAuth 1.0 vs. OAuth 2.0
