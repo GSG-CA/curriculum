@@ -84,7 +84,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 
 ### HTML/CSS
 - [ ] Why is accessibility important?
-- [ ] How do we test for accesbility?
+- [ ] How do we test for accessibility?
 - [ ] What is semantic HTML?
 - [ ] Convert [the html linked here](https://gist.github.com/m4v15/28d64be4fb3495aa1ff3a91bf4336bb1) to use semantic HTML instead of divs.
 - [ ] Using flexbox, change the layout of the above HTML to [something like this] https://www.figma.com/file/ewvTXphnscgQ2HD5gHkyHRz8/BASIC-DESGIN?node-id=0%3A1
