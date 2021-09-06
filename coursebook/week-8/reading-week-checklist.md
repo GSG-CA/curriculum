@@ -128,7 +128,7 @@ const addUser = (data, cb) => {
 }
 ```
 
-- [ ] Hard challenge! [Parallel Functions](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/morning-challenge.md)
+- [ ] Hard challenge! [Parallel Functions](https://github.com/foundersandcoders/mc-parallel-functions/tree/e4bac31c00909b915ced843416eb132d0d955be1)
 
 ---
 
