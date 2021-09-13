@@ -47,7 +47,7 @@
 — BREAK —
 
 - 13:30 - 15:00 <br> 
-  [what-is-this](https://github.com/ZooeyMiller/ws-what-is-this)
+  [what-is-this](https://github.com/GSG-G10/ws-what-is-this)
 
 - 15:00 - 16:00 <br> 
   [Destructuring challenge](https://github.com/lina-jamal/learn-destructuring)
