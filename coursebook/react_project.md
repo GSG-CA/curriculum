@@ -1,6 +1,6 @@
 # React Week Project
 
-## E-commerce website
+## E-Commerce Website
 
 Your project for this week is to build an e-commerce web app using react,nodejs and PostgreSQL for database. Your app basically should have five pages: 
 - Landing page (The main page which contains the list of products).
