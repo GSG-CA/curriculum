@@ -47,7 +47,7 @@
 ## Day 3
 
 - 09:00 - 10:30 <br>
-[JavaScript Objects Part I](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-12/javascript-objects.md)
+[JavaScript Objects](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-12/javascript-objects.md)
 
 - 10:30 - 11:00 <br>
 [Into to Project](./project.md)
