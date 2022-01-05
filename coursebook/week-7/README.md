@@ -12,17 +12,17 @@
   [Presentation on password management](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1)
 
 - 10:00 - 12:30 <br>
-  [Workshop on password management](https://github.com/GSG-G10/ws-password-management)
+  [Workshop on password management](https://github.com/GSG-CA/ws-password-management)
 
 — BREAK —
 
 - 13:30 - 17:00 <br>
-  [cookies](https://github.com/GSG-G10/cookies-ws)
+  [cookies](https://github.com/GSG-CA/cookies-ws)
 
 ### Day 2
 
 - 09:00 - 12:30 <br>
-  [stateless session management - jwt](https://github.com/GSG-G10/jwt-ws)
+  [stateless session management - jwt](https://github.com/GSG-CA/jwt-ws)
 
 — BREAK —
 
@@ -35,7 +35,7 @@
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  [server-side-validation](https://github.com/GSG-G10/server-side-validation)
+  [server-side-validation](https://github.com/GSG-CA/server-side-validation)
 
 - 10:00 - 12:00 <br>
   Projects
