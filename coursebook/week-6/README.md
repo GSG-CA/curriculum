@@ -15,22 +15,22 @@
   [Introduction to databases and SQL](https://hackmd.io/seVFh7xIQ7iw52o8oUR5Jw?view)
 
 - 10:00 - 12:30 <br>
-  [Installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
+  [Installation instructions](https://github.com/GSG-CA/learn-sql/blob/master/postgresql/setup.md)
 
-  [SQL commands intro workshop](https://github.com/GSG-G10/sql-commands-intro)
+  [SQL commands intro workshop](https://github.com/GSG-CA/sql-commands-intro)
 
   — BREAK —
 
 - 13:30 - 17:00 <br>
-  [workshop on SQL commands and psql](https://github.com/GSG-G10/postgres-workshop)
+  [workshop on SQL commands and psql](https://github.com/GSG-CA/postgres-workshop)
 
 ### Day 2
 
 - 09:00 - 10:30 <br>
-  [pg module](https://github.com/GSG-G10/pg-code-along)
+  [pg module](https://github.com/GSG-CA/pg-code-along)
 
 - 10:30 - 12:30 <br>
-  [node app with a database connection](https://github.com/GSG-G10/pg-workshop)
+  [node app with a database connection](https://github.com/GSG-CA/pg-workshop)
 
 — BREAK —
 
@@ -38,7 +38,7 @@
   [Introduce Project](./project.md)
 
 - 13:45 - 16:00 <br>
-  [Database Testing](https://github.com/GSG-G10/db-testing-ws)
+  [Database Testing](https://github.com/GSG-CA/db-testing-ws)
 
 - 13:45 - 16:00 <br>
   [Research Afternoon](./research-afternoon.md)
@@ -46,7 +46,7 @@
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  [DB morning challenge](https://github.com/GSG-G10/db-morning-challenge)
+  [DB morning challenge](https://github.com/GSG-CA/db-morning-challenge)
 
 - 10:00 - 11:00 <br>
   Computer Science Session
