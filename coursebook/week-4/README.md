@@ -10,17 +10,17 @@
 ### Day 1
 
 - 09:00 - 12:00 <br>
-  [Node Intro Workshop](https://github.com/GSG-G10/Node-Intro-Workshop)
+  [Node Intro Workshop](https://github.com/GSG-CA/Node-Intro-Workshop)
 
   — BREAK —
 
 - 13:00 - 15:00 <br>
-  [Node Girls workshop](https://github.com/GSG-G10/node-girls-ws) (Day 1 of 2)
+  [Node Girls workshop](https://github.com/GSG-CA/node-girls-ws) (Day 1 of 2)
 
 ### Day 2
 
 - 09:00 - 11:00 <br>
-  [Node Girls workshop](https://github.com/GSG-G10/node-girls-ws) (Day 2 of 2)
+  [Node Girls workshop](https://github.com/GSG-CA/node-girls-ws) (Day 2 of 2)
 
 - 11:00 - 12:00 <br>
   [Deploying & ENV](./deploying.md)
@@ -31,7 +31,7 @@
   [Introduce Project](./project.md)
 
 - 13:30 - 17:00 <br>
-  [Workshop on TDD Node server](https://github.com/GSG-G10/tdd-node-server-ws)
+  [Workshop on TDD Node server](https://github.com/GSG-CA/tdd-node-server-ws)
 
 ### Day 3
 
