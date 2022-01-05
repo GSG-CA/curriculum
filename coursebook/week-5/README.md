@@ -12,20 +12,20 @@
 ### Day 1
 
 - 09:00 - 12:00 <br>
-  [Workshop on error handling](https://github.com/GSG-G10/error-handling-workshop)
+  [Workshop on error handling](https://github.com/GSG-CA/error-handling-workshop)
 
   — BREAK —
 
 - 13:00 - 13:15 <br>
-  [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
+  [Introduction to Express](https://github.com/GSG-CA/introduction-to-express)
   
 - 13:15 - 17:00 <br>
-  [Express-Workshop](https://github.com/GSG-G10/express-workshop)
+  [Express-Workshop](https://github.com/GSG-CA/express-workshop)
   
 ### Day 2
 
 - 09:00 - 11:00 <br>
-  [Creating and Testing Express Routes](https://github.com/GSG-G10/express-and-testing-workshop)
+  [Creating and Testing Express Routes](https://github.com/GSG-CA/express-and-testing-workshop)
 
 - 11:00 - 12:00 <br>
   [Continuous Integration](./CI.md)
@@ -37,16 +37,16 @@
   [Introduce Project](./project.md)
 
 - 13:15 - 15:00 <br>
-  [Promises](https://github.com/GSG-G10/mc-promise-me-this)
+  [Promises](https://github.com/GSG-CA/mc-promise-me-this)
   
 - 15:00 - 16:00 <br>
-  [Client Side Validation](https://github.com/GSG-G10/client-side-validation)
+  [Client Side Validation](https://github.com/GSG-CA/client-side-validation)
   
 
 ### Day 3
 
 - 09:00 - 10:30 <br>
-  [Learn fetch](https://github.com/GSG-G10/learn-fetch)
+  [Learn fetch](https://github.com/GSG-CA/learn-fetch)
 
 - 10:30 - 12:00 <br>
   Projects
