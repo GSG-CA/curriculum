@@ -4,9 +4,9 @@
 ### Day 1
 
 - 09:00 - 10:00 <br> 
-  [Intro to React and creating elements, from DOM to JSX](https://github.com/jema28/react-intro)
+  [Intro to React and creating elements, from DOM to JSX](https://github.com/GSG-CA/react-intro)
 - 10:00 - 12:30 <br> 
-  [Demo](https://github.com/fack2/react-components-demo) walkthrough simple functional react components
+  [Demo](https://github.com/GSG-CA/react-components-demo) walkthrough simple functional react components
   
   [Functional components with props exercises](https://github.com/rithmschool/react_exercises/tree/master/01-introduction-to-react/jsx-and-babel)
 
@@ -14,11 +14,11 @@
 — BREAK —
 
 - 13:30 - 17:00 <br> 
-  [js classes](https://github.com/oliverjam/es6-class-intro)
+  [js classes](https://github.com/GSG-CA/es6-class-intro)
   
-  [demo of class components](https://github.com/fack2/react-components-demo)
+  [demo of class components](https://github.com/GSG-CA/react-components-demo)
   
-  [Mini react state workshop](https://github.com/ali-7/mini-react-state-ws)
+  [Mini react state workshop](https://github.com/GSG-CA/mini-react-state-ws)
 
 
 ### Day 2
@@ -27,13 +27,13 @@
   Lifecycle methods (talk) - Resourses [1](https://reactjs.org/docs/react-component.html) [2](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [3](https://www.rithmschool.com/courses/react-fundamentals/component-life-cycle) [4](https://programmingwithmosh.com/javascript/react-lifecycle-methods/)
   
 - 10:00 - 12:30 <br> 
-  [React with dynamic data](https://github.com/ali-7/react-dynamic-data-workshop)
+  [React with dynamic data](https://github.com/GSG-CA/react-dynamic-data-workshop)
 
 
 — BREAK —
 
 - 13:30 - 16:00 <br> 
-  [Forms, event listeners and methods on class components](https://github.com/ali-7/react-forms)
+  [Forms, event listeners and methods on class components](https://github.com/GSG-CA/react-forms)
   
 - 16:00 - 17:00 <br>
   [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf)
@@ -42,15 +42,15 @@
 ### Day 3
 
 - 09:00 - 12:30 <br> 
-  React mini project - [filterable product page](https://github.com/ali-7/react-food-workshop)
+  React mini project - [filterable product page](https://github.com/GSG-CA/react-food-workshop)
 
 — BREAK —
 
 - 13:30 - 15:00 <br> 
-  [what-is-this](https://github.com/GSG-G10/ws-what-is-this)
+  [what-is-this](https://github.com/GSG-CA/ws-what-is-this)
 
 - 15:00 - 16:00 <br> 
-  [Destructuring challenge](https://github.com/GSG-G10/learn-destructuring)
+  [Destructuring challenge](https://github.com/GSG-CA/learn-destructuring)
   
 - 16:00 - 16:30 <br>
   [Intro to create-react-app](https://github.com/facebook/create-react-app)
@@ -74,6 +74,6 @@
 
 — BREAK —
 
-- 13:00 - 15:00 — Finsihing up and preparing for presintation 
+- 13:00 - 15:00 — Finishing up and preparing for presentation 
 
 - 15:00 - 17:00 — Projects presentation
