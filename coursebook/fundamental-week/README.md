@@ -16,11 +16,11 @@
 — BREAK —
 
 - 13:30 - 15:30 <br>
-[Intro to JS](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/intro-to-js.md)
+[Intro to JS](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/intro-to-js.md)
 
-  [Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/variables-and-constants.md)
+  [Variables and Constants](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/variables-and-constants.md)
 
-  [Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/data-types.md)
+  [Data Types in JavaScript](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/data-types.md)
 
 
 ## Day 2
@@ -35,18 +35,21 @@
 
 — BREAK —
 
-- 13:30 - 15:30 <br>
-[Javascript Operators](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/operators.md)
+- 13:30 - 15:00 <br>
+[Javascript Logical Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#logical-operators)
+
+- 15:00 - 15:30 <br>
+[Javascript Comparison Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#comparison-operators)
 
 - 15:30 - 16:30 <br>
-[Array Methods](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-10/array-methods.md)
+[Array Methods](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-13/array-methods.md)
 
 ## Day 3
 
-- 09:00 - 10:00 <br>
-[JavaScript Objects](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/javascript-objects.md)
+- 09:00 - 10:30 <br>
+[JavaScript Objects Part I](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-12/javascript-objects.md)
 
-- 10:00 - 10:30 <br>
+- 10:30 - 11:00 <br>
 [Into to Project](./project.md)
 
 - Projects
