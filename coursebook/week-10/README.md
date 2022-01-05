@@ -3,7 +3,7 @@
 ### Day 1
 
 - 09:00 - 11:00 <br>
-  [Intro to React hooks and useState hook](https://github.com/MohammedYehia/react-useState)
+  [Intro to React hooks and useState hook](https://github.com/GSG-CA/react-useState)
 - 11:10 - 13:30 <br>
   [React Router](https://reactrouter.com/web/guides/quick-start)
 
@@ -15,7 +15,7 @@
 ### Day 2
 
 - 09:00 - 11:30 <br>
-  [useEffect hook](https://github.com/MohammedYehia/react-useEffect)
+  [useEffect hook](https://github.com/GSG-CA/react-useEffect)
 
 — BREAK —
 
@@ -25,10 +25,10 @@
 ### Day 3
 
 - 09:00 - 9:45 <br>
-  [useLayoutEffect Hook](https://github.com/MohammedYehia/react-useLayoutEffect)
+  [useLayoutEffect Hook](https://github.com/GSG-CA/react-useLayoutEffect)
 
 - 09:45 - 11:00 <br>
-  [useContext Hook](https://github.com/MohammedYehia/react-context-ws)
+  [useContext Hook](https://github.com/GSG-CA/react-useContext)
 
 - 11:00 - 11:20 <br>
   react eslint
@@ -56,6 +56,6 @@
 
 — BREAK —
 
-- 13:00 - 13:30 — Finsihing up and preparing for presintation
+- 13:00 - 13:30 — Finishing up and preparing for presentation
 
 - 13:30 - 15:00 — Projects presentation
