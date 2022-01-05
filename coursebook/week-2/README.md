@@ -12,18 +12,18 @@
 ### Day 1
 
 - 09:00 - 09:30 <br>
-  [Intro to NPM](https://github.com/GSG-G10/npm-introduction)
+  [Intro to NPM](https://github.com/GSG-CA/npm-introduction)
 
 - 09:30 - 10:00 <br>
-  [Introduction to testing and TDD](https://github.com/GSG-G10/testing-tdd-intro)
+  [Introduction to testing and TDD](https://github.com/GSG-CA/testing-tdd-intro)
 
 - 10:00 - 12:00 <br>
-  [Jest (TDD) workshop](https://github.com/GSG-G10/fizzbuzz)
+  [Jest (TDD) workshop](https://github.com/GSG-CA/fizzbuzz)
 
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  [Roman numerals TDD code-along](https://github.com/GSG-G10/Roman-Numerals)
+  [Roman numerals TDD code-along](https://github.com/GSG-CA/Roman-Numerals)
 
 - 15:00 - 17:00 <br>
   [Intro to Functions](./intro-to-functions-slides.md)
@@ -39,19 +39,19 @@
 — BREAK —
 
 - 14:00 - 16:00 <br>
-  [Pure functions workshop](https://github.com/GSG-G10/pure-functions-easy-testing-ws)
+  [Pure functions workshop](https://github.com/GSG-CA/pure-functions-easy-testing-ws)
 
 
 - 16:00 - 16:30 <br>
   [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 - 16:30 - 17:00 <br>
-  [Intro To Project](https://github.com/GSG-G10/curriculum/blob/main/coursebook/week-2/project.md)
+  [Intro To Project](./project.md)
 
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  [Traffic Light Callbacks](https://github.com/GSG-G10/morning-challenge-traffic-lights)
+  [Traffic Light Callbacks](https://github.com/GSG-CA/morning-challenge-traffic-lights)
 
 - 10:00 - 11:00 <br>
   Computer Science Session
@@ -76,8 +76,7 @@
 
 ### Day 5
 
-- 09:00 - 09:15 — [How to code review](https://github.com/GSG-G10/curriculum/blob/main/coursebook/week-1/codereviewintro.md)
-- 09:15 - 10:00 — Code review
+- 09:00 - 10:00 — Code review
 - 10.00 - 11:00 — Respond to issues and plan presentations
 - 11:00 - 13:00 — Projects Presentation
 
