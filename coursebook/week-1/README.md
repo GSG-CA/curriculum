@@ -26,10 +26,7 @@
 — BREAK —
 - 13:30 - 15:00 — [JavaScript Objects](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-12/javascript-objects.md)
 - 15:00 - 16:00 — [Responsive Design](https://github.com/GSG-CA/Responsive-Design-Workshop)
-
-
-- 15:00 - 17:00 — [CSS Animation](https://hackmd.io/@yosefanajjar/SJTXyi3gL) // not sure how important
-
+- 15:00 - 17:00 — [CSS Animation](https://hackmd.io/@yosefanajjar/SJTXyi3gL)
 ## Day 3
 
 - 09:00 - 10:00 — [Morning Challenge - CSS](https://hackmd.io/kQio8HXGSzy2PGisL30OIg?view)
