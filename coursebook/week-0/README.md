@@ -24,7 +24,7 @@
 - 09:45 - 10:00 <br>
   Safeguarding / Complaints mechanism
 
-- 10:00 - 10:30 <br> // TBD
+- 10:00 - 10:30 <br> 
   Baseline survey and English Language Baseline assessment
 
 - 10:30 - 11:30 <br>
@@ -32,18 +32,18 @@
 
 — BREAK —
 
-- 13:00 - 14:00 <br>
+- 12:30 - 13:30 <br>
   Energizer - Name Game
 
-- 14:00 - 14:30 <br>
+- 13:00 - 14:00 <br>
   Activity: Self-awareness. User Manuals: what are they? (Research)
 
-- 14:30 - 15:30 <br>
+- 14:00 - 15:00 <br>
   Make your User Manual.
 
   [User Manual template (each make a copy)](https://docs.google.com/presentation/d/1mDvdc-kukWBC8V3-iJQJpo2SQDUYadoF/edit#slide=id.p1)
 
-- 15:30 - 16:30 <br>  Present User Manuals
+- 15:00 - 16:00 <br>  Present User Manuals
   
 ## Day 2
 
@@ -52,12 +52,10 @@
 
 - 09:30 - 11:00 <br>  Present User Manuals
 
-
-— BREAK —
-
-- 12:00 - 13:00 <br>
+- 11:00 - 12:00 <br>
   [Intro to Web development](intro-to-web.md)
   
+— BREAK —
 
 - 13:00 - 17:00 <br>
   Installations
