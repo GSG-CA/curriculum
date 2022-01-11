@@ -31,14 +31,14 @@
 
 - 12:30 - 13:30 — Energizer - Name Game
 
-- 13:30 - 14:30 — Activity: Self-awareness. User Manuals: what are they? (Research)
+- 13:30 - 14:00 — Activity: Self-awareness. User Manuals: what are they? (Research)
 
-- 14:30 - 15:30 <br>
+- 14:00 - 15:00 <br>
 Make your User Manual.
 
   [User Manual template (each make a copy)](https://docs.google.com/presentation/d/1mDvdc-kukWBC8V3-iJQJpo2SQDUYadoF/edit#slide=id.p1)
 
-- 15:30 - 16:30 — Present User Manuals
+- 15:00 - 16:30 — Present User Manuals
   
 ## Day 2
 
