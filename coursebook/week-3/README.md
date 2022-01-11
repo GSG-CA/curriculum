@@ -32,9 +32,6 @@
 - 13:00 - 16:00 <br>
   [Call It Back](https://github.com/GSG-CA/call-it-back)
 
-- 16:00 - 17:00 <br>
-  [Software Architecture Workshop](https://github.com/GSG-CA/Workshop-Software-Architecture-Design)
-
 ### Day 3
 
 - 09:00 - 10:00 <br> [Waterfall morning challenge](https://github.com/GSG-CA/mc-waterfall-chaser)

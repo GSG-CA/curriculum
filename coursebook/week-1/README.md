@@ -13,10 +13,10 @@
 - 10:00 - 11:30 — [Javascript Logical Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#logical-operators)
 - 11:30 - 12:00 — [Javascript Comparison Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#comparison-operators)
 -  — BREAK —
-- 13:00 - 13:30 — [Responsive Design](https://github.com/GSG-CA/Responsive-Design-Workshop)
-- 13:30 - 15:30 — [Flexbox](./Flexbox.md)
-- 15:30 - 16:10 — [flexbox froggy](https://flexboxfroggy.com/)
-- 16:20 - 16:30 — [Assignment Intro](https://github.com/GSG-CA/flexbox-exercise)
+- 13:00 - 14:00 — [Responsive Design](https://github.com/GSG-CA/Responsive-Design-Workshop)
+- 14:00 - 16:00 — [Flexbox](./Flexbox.md)
+- 16:00 - 16:40 — [flexbox froggy](https://flexboxfroggy.com/)
+- 16:40 - 17:00 — [Assignment Intro](https://github.com/GSG-CA/flexbox-exercise)
 
 ## Day 2
 

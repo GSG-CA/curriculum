@@ -11,23 +11,23 @@
 
 ### Day 1
 
-- 09:00 - 09:30 <br>
+- 09:00 - 11:00 <br>
+  [Intro to Functions](./intro-to-functions-slides.md)
+
+- 11:00 - 11:30 <br>
   [Intro to NPM](https://github.com/GSG-CA/npm-introduction)
 
-- 09:30 - 10:00 <br>
+- 11:30 - 12:00 <br>
   [Introduction to testing and TDD](https://github.com/GSG-CA/testing-tdd-intro)
-
-- 10:00 - 12:00 <br>
-  [Jest (TDD) workshop](https://github.com/GSG-CA/fizzbuzz)
 
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  [Roman numerals TDD code-along](https://github.com/GSG-CA/Roman-Numerals)
+  [Jest (TDD) workshop](https://github.com/GSG-CA/fizzbuzz)
+
 
 - 15:00 - 17:00 <br>
-  [Intro to Functions](./intro-to-functions-slides.md)
-
+  [Roman numerals TDD code-along](https://github.com/GSG-CA/Roman-Numerals)
 ### Day 2
 
 - 09:00 - 10:30 <br>
