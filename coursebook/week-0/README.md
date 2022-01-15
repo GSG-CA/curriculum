@@ -25,7 +25,7 @@
 
 - 10:00 - 10:30 — Baseline survey and English Language Baseline assessment
 
-- 10:30 - 11:30 — Intro to Soft Skills / Having a learner mindset / Growth mindset / The power of empathy
+- 10:30 - 11:30 — [Intro to Web development](intro-to-web.md)
 
 — BREAK —
 
@@ -46,7 +46,7 @@ Make your User Manual.
 
 - 09:30 - 11:00 — Present User Manuals
 
-- 11:00 - 12:00 — [Intro to Web development](intro-to-web.md)
+- 11:00 - 12:00 — [Intro to best coding practices](https://docs.google.com/presentation/d/1INJdi77Lcdrnf-vwfGzibnHpuR0hzCF-B_sqnPIKBME/edit#slide=id.p)
   
 — BREAK —
 
@@ -82,7 +82,7 @@ Make your User Manual.
 
 — BREAK —
 
-- 13:30 - 14:30 — [Intro to best coding practices](https://docs.google.com/presentation/d/1INJdi77Lcdrnf-vwfGzibnHpuR0hzCF-B_sqnPIKBME/edit#slide=id.p)
+- 13:30 - 14:30 — Soft skills session
 
 - 14:30 - 16:00 — Intro to UX/UI design
 
@@ -90,3 +90,4 @@ Make your User Manual.
 
 ## Day 5
 - 09:00 - 17:00 — Projects
+- Intro to Soft Skills / Having a learner mindset / Growth mindset / The power of empathy
