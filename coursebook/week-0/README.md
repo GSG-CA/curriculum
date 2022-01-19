@@ -89,5 +89,4 @@ Make your User Manual.
 - 16:00 - 17:00 — Quick start with Figma / individual learning / go through tutorial playlist
 
 ## Day 5
-- 09:00 - 17:00 — Projects
-- Intro to Soft Skills / Having a learner mindset / Growth mindset / The power of empathy
+- 09:00 - 17:00 — [Project](./project.md)
