@@ -10,8 +10,8 @@
 ## Day 1
 
 - 09:00 - 10:00 — Morning Challenge
-- 10:00 - 11:30 — [Javascript Logical Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#logical-operators)
-- 11:30 - 12:00 — [Javascript Comparison Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#comparison-operators)
+- 10:00 - 10:30 — [Javascript Comparison Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#comparison-operators)
+- 10:30 - 12:00 — [Javascript Logical Operators](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/operators.md#logical-operators)
 -  — BREAK —
 - 13:00 - 14:00 — [Responsive Design](https://github.com/GSG-CA/Responsive-Design-Workshop)
 - 14:00 - 16:00 — [Flexbox](./Flexbox.md)
