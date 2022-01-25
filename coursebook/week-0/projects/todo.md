@@ -12,5 +12,7 @@ User Stories:
 3. As a User, I can mark todo as a done/undone.
 4. As a User, I can delete any todo I want.
 5. As a User, I should be able to edit any todo I have.
+6. As a User, I want to see the number of todos I have in my list
+
 
 > You should use `local storage` for this project to save the todo's user have .
