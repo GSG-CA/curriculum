@@ -89,4 +89,4 @@ Make your User Manual.
 - 16:00 - 17:00 — Quick start with Figma / individual learning / go through tutorial playlist
 
 ## Day 5
-- 09:00 - 17:00 — [Project](./project.md)
+- 09:00 - 17:00 — [Project](./projects/README.md)
