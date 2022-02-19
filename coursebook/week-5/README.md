@@ -11,17 +11,20 @@
 
 ### Day 1
 
-- 09:00 - 12:00 <br>
+- 09:00 - 11:45 <br>
   [Workshop on error handling](https://github.com/GSG-CA/error-handling-workshop)
 
   — BREAK —
 
-- 13:00 - 13:15 <br>
+- 12:45 - 13:00 <br>
   [Introduction to Express](https://github.com/GSG-CA/introduction-to-express)
   
-- 13:15 - 17:00 <br>
+- 13:00 - 16:00 <br>
   [Express-Workshop](https://github.com/GSG-CA/express-workshop)
-  
+
+- 16:00 - 17:00 <br>
+  [Express-Middlewares](https://github.com/GSG-CA/express-middleware)
+    
 ### Day 2
 
 - 09:00 - 11:00 <br>
