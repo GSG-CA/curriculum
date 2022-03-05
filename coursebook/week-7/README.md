@@ -9,7 +9,7 @@
 ### Day 1
 
 - 09:00 - 10:00 <br>
-  [Presentation on password management](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1)
+  [Presentation on password management](https://docs.google.com/presentation/d/1tosxYIhQE5P7asugtxk89Ox216zsnQJ_6KKZH9hNNMI/edit?usp=sharing)
 
 - 10:00 - 12:30 <br>
   [Workshop on password management](https://github.com/GSG-CA/ws-password-management)
