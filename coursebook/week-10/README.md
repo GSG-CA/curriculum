@@ -4,40 +4,43 @@
 
 - 09:00 - 11:00 <br>
   [Intro to React hooks and useState hook](https://github.com/GSG-CA/react-useState)
-- 11:10 - 13:30 <br>
+
+- 11:00 - 12:30 <br>
+  Working on exercises
+
+— BREAK —
+
+
+- 13:30 - 15:30 <br>
+  [useEffect hook](https://github.com/GSG-CA/react-useEffect)
+
+- 15:30 - 17:00 <br>
+  Working on exercises
+  
+### Day 2
+
+- 09:00 - 10:20 <br>
+  [useContext Hook](https://github.com/GSG-CA/react-useContext)
+
+- 10:20 - 10:40 <br>
+  react eslint
+
+- 10:40 - 12:40 <br>
   [React Router](https://reactrouter.com/web/guides/quick-start)
 
 — BREAK —
 
-- 13:30 - 17:00 <br>
-  Self Study / Working on exercises
-
-### Day 2
-
-- 09:00 - 11:30 <br>
-  [useEffect hook](https://github.com/GSG-CA/react-useEffect)
-
-— BREAK —
-
-- 12:30 - 17:00 <br>
-  Self Study / Working on exercises
+- 13:40 - 17:00 <br>
+  MongoDB
 
 ### Day 3
 
-- 09:00 - 9:45 <br>
-  [useLayoutEffect Hook](https://github.com/GSG-CA/react-useLayoutEffect)
-
-- 09:45 - 11:00 <br>
-  [useContext Hook](https://github.com/GSG-CA/react-useContext)
-
-- 11:00 - 11:20 <br>
-  react eslint
+- 09:00 - 12:00 <br>
+  TypeScript
 
 — BREAK —
 
-- 12:30 - 15:30 <br>
-  Self Study / Working on exercises
-- 15:30 - 17:00 <br>
+- 13:00 - 17:00 <br>
   Intro to Projects and planning
 
 ### Day 4
@@ -56,6 +59,4 @@
 
 — BREAK —
 
-- 13:00 - 13:30 — Finishing up and preparing for presentation
-
-- 13:30 - 15:00 — Projects presentation
+- 13:00 - 14:30 — Projects presentation
