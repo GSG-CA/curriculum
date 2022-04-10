@@ -10,7 +10,6 @@
 
 — BREAK — 
 
-
 - 13:30 - 15:30 <br>
   [useEffect hook](https://github.com/GSG-CA/react-useEffect)
 
