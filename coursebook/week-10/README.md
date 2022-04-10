@@ -8,7 +8,7 @@
 - 11:00 - 12:30 <br>
   Working on exercises
 
-— BREAK —
+— BREAK — 
 
 
 - 13:30 - 15:30 <br>
@@ -16,7 +16,7 @@
 
 - 15:30 - 17:00 <br>
   Working on exercises
-  
+
 ### Day 2
 
 - 09:00 - 10:20 <br>
@@ -26,7 +26,7 @@
   react eslint
 
 - 10:40 - 12:40 <br>
-  [React Router](https://reactrouter.com/web/guides/quick-start)
+  [React Router](https://reactrouter.com/docs/en/v6/getting-started/overview)
 
 — BREAK —
 
