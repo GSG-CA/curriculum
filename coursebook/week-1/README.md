@@ -5,6 +5,7 @@
 - [Learning outcomes](./learning-outcomes.md)
 - [Exercise](./exercise.md)
 - [Resources](./resources.md)
+- [Research and self study topics](./research-afternoon.md)
 
 ## Day 1
 

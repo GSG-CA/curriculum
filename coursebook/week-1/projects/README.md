@@ -1,4 +1,4 @@
-# Fundamental's and Mindset Week Projects
+# Fundamentals and Toolkit week Projects
 
 Possible project's idea to work on.
 
