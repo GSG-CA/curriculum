@@ -1,9 +1,10 @@
-# Toolkit Week Projects
+# Fundamentals and Toolkit week Projects
 
 Possible project's idea to work on.
 
 ## Projects
 
-- [Portfolio Project](./portfolio-project.md)
-- [NEWS Website Project](./news-project.md)
-
+- [Quiz App](./quizApp.md)
+- [ToDo App](./todo.md)
+- [Portfolio](./portfolio.md)
+- [News App]('./news-app.md)

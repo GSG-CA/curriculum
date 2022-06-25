@@ -237,3 +237,6 @@ This allows the default alignment (or the one specified by `align-items`) to be 
   align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
 ```
+
+## Resources
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

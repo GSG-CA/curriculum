@@ -11,6 +11,7 @@
 
 You will always be using git in the command line. But it is useful to remember how some people who consider themselves less technical might interact with a repo, purely using GitHub: [Introduction to GitHub tutorial](https://services.github.com/on-demand/intro-to-github/)
 
+
 ### CSS
 
 - [The 'centering-a-div' trick](https://css-tricks.com/centering-percentage-widthheight-elements/)
@@ -20,3 +21,14 @@ You will always be using git in the command line. But it is useful to remember h
 - [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3egrq5nf3)
 - [Visual reference to nearly all CSS properties](http://cssreference.io/)
 - [WebAIM's Accessible CSS Techniques](http://webaim.org/techniques/css/)
+
+### UI/UX
+
+- [Get started with Figma](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2)
+- [FIGMA 101](https://www.popwebdesign.net/popart_blog/en/2020/08/figma-101-the-beginners-ultimate-guide-to-the-basics/)
+
+### Other
+- [General English](https://www.cambridgeenglish.org/test-your-english/general-english/)
+- [Learn the fundamentals of a good developer mindset in 15 minutes
+  ](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+- [Become a Better Developer by Increasing Your Empathy](https://www.welcometothejungle.com/en/articles/better-developer-empathy)
