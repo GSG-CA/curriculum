@@ -20,7 +20,6 @@ let's begin with simple example, let's add some boxes (flex elements) inside a c
   <div class="box">2</div>
   <div class="box">3</div>
   <div class="box">4</div>
-  <div></div>
 </div>
 ```
 
