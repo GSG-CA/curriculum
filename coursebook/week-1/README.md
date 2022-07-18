@@ -69,7 +69,7 @@
   [Data Types in JavaScript](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2004/session-08/data-types.md)
 
 — BREAK —
-- 13:00 - 14:00  — [Array Methods](https://github.com/GSG-CA/Coding-Foundations-course/blob/master/coursebook/Week%2005/session-13/array-methods.md)
+- 13:00 - 14:00  — [Array Methods](./array-methods.md)
 - 14:00 - 16:00 — [Git workshop](https://github.com/GSG-CA/git-workflow-workshop-for-two)
 
 - 16:00 - 17:30 <br>
