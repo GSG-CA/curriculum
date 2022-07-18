@@ -264,7 +264,24 @@ cat FILE_NAME
 
 **_Note:_** If your file was empty you will not get an output.
 
-### 8- Removing/Deleting Files And Folders:
+### 8- Write Text Inside A File:
+Now after we created an empty file, let’s add content for the file.
+
+To add a text inside a file, we use the echo command.
+
+In order to add a text inside a file we use the
+echo command.
+
+echo "text content" > file_name
+echo: The terminal command.
+
+“text content”: the text that we want to add.
+
+>: Redirect
+
+file_name: the folder that you want to add inside it.
+
+### 9- Removing/Deleting Files And Folders:
 
 #### Before You Begin
 
@@ -314,7 +331,7 @@ rm -rf FOLDER_NAME
 
 🚨🚨🚨🚨💀🚨🚨🚨🚨
 
-### 9- Moving Files To Trash:
+### 10- Moving Files To Trash:
 
 To move files or directories to the trash, use `gio trash` command.
 
