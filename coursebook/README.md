@@ -4,8 +4,7 @@ Welcome to the coursebook for GSG Code Academy G11!
 
 The first eight weeks will provide you with the necessary building blocks for creating a web app:
 
-- [Week 0](week-0/README.md) - Mindset and Fundamentals week
-- [Week 1](week-1/README.md) - Toolkit
+- [Week 1](week-1/README.md) - Fundamentals & Toolkit
 - [Week 2](week-2/README.md) - Testing
 - [Week 3](week-3/README.md) - APIs
 - [Week 4](week-4/README.md) - Node.js
