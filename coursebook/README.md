@@ -1,6 +1,6 @@
 # Coursebook
 
-Welcome to the coursebook for GSG Code Academy G11!
+Welcome to the coursebook for GSG Code Academy G12!
 
 The first eight weeks will provide you with the necessary building blocks for creating a web app:
 
