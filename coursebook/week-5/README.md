@@ -20,10 +20,10 @@
   [Introduction to Express](https://github.com/GSG-CA/introduction-to-express)
   
 - 13:00 - 16:00 <br>
-  [Express-Workshop](https://github.com/GSG-CA/express-workshop)
+  [Express Workshop](https://github.com/GSG-CA/express-workshop)
 
 - 16:00 - 17:00 <br>
-  [Express-Middlewares](https://github.com/GSG-CA/express-middleware)
+  [Express Middlewares](https://github.com/GSG-CA/express-middleware)
     
 ### Day 2
 
