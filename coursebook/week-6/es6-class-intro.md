@@ -84,3 +84,30 @@ Extend the JavaScript `Array` class to create `CustomArray` class. This class sh
 - `getElementAtIndex()` returns the element at given index.
 - `insertAt()` used to insert an element at given index.
 - `deleteAt()`  used to remove an element at given index.
+
+## Classes before ES6
+
+```js
+function Character() {
+  this.health = 100;
+}
+
+Character.prototype.getHealth = function() {
+  return this.health;
+};
+
+Character.prototype.takeDamage = function(damage) {
+  this.health -= damage;
+};
+
+function Hero(name) {
+  Character.call(this);
+  this.name = name;
+}
+
+Hero.prototype = Object.create(Character.prototype);
+
+Hero.prototype.getName = function() {
+  return this.name;
+};
+```
