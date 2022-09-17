@@ -18,7 +18,7 @@
 
 - 13:30 - 14:30  —  [ES6 Module](https://github.com/GSG-CA/es6-class-intro)
 
-- 14:30 - 17:00 — [React State](https://) 
+- 14:30 - 17:00 — [React State](https://github.com/GSG-CA/react-useState) 
 
 
 ### Day 2
