@@ -22,7 +22,7 @@
 ### Day 2
 
 - 09:00 - 12:30 <br>
-  [stateless session management - jwt](https://github.com/GSG-CA/jwt-ws)
+  [stateless session management - jwt](https://github.com/CA-G12/jwt-ws)
 
 — BREAK —
 
