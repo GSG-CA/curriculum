@@ -2,7 +2,7 @@
 
 ## HTML, CSS, and JavaScript Project
 
-**Create a GitHub repo on G11 org and use `git` command to push your code, `Don't push to master` also deploy it to `Github pages`.**
+**Create a GitHub repo on your cohort org and use `git` command to push your code, `Don't push to main` also deploy it to `Github pages`.**
 
 
 User Stories:
