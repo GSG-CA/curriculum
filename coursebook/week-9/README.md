@@ -42,7 +42,7 @@
 
 — BREAK —
 
-- 14:30 — 16:00 — [what-is-this](https://github.com/GSG-CA/ws-what-is-this)
+- 14:30 — 16:00 — [what-is-this](https://github.com/GSG-CA/what-is-this)
 
 ### Day 4
 - 09:00 - 10:00 — [Intro to class components and differences with hooks](https://github.com/GSG-CA/react-components-demo) 
