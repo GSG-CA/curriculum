@@ -35,14 +35,14 @@
 
 - 09:00 - 11:00 — Design Thinking 
 
-- 11:00 - 13:00 — Play with antd and material UI
+- 11:00 - 13:00 — Computer Science
 
 — BREAK —
 
 - 14:00 - 15:00 — React Testing
 
 
-- 15:00 - 17:00 — Computer Science
+- 15:00 - 17:00 — Play with antd and material UI
 
 ### Day 4
 
