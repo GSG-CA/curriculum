@@ -16,9 +16,8 @@
 
 — BREAK —
 
-- 13:30 - 14:30  —  [ES6 Module](https://github.com/GSG-CA/es6-class-intro)
 
-- 14:30 - 17:00 — [React State](https://github.com/GSG-CA/react-useState) 
+- 13:30 - 17:00 — [React State](https://github.com/GSG-CA/react-useState) 
 
 
 ### Day 2
@@ -39,10 +38,6 @@
 - 9:00 - 11:00 — [React Effects](https://github.com/GSG-CA/react-useEffect-hook) 
   
 - 11:00 - 13:30 — [React with dynamic data](https://github.com/GSG-CA/react-dynamic-data-workshop)
-
-— BREAK —
-
-- 14:30 — 16:00 — [what-is-this](https://github.com/GSG-CA/what-is-this)
 
 ### Day 4
 - 09:00 - 10:00 — [Intro to class components and differences with hooks](https://github.com/GSG-CA/react-components-demo) 
