@@ -11,7 +11,8 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 5](week-5/README.md) - Express
 - [Week 6](week-6/README.md) - PostgreSQL
 - [Week 7](week-7/README.md) - Authentication
-- [Week 8](week-8/README.md) - Reading Week
-- [Week 9](week-9/README.md) - React Week
-- [Week 10](week-10/README.md) - React Hooks Week
+- [Week 8](week-8/README.md) - NodeJS Extra Topics
+- [Week 9](week-9/README.md) - Reading Week
+- [Week 10](week-10/README.md) - React Week
+- [Week 11](week-11/README.md) - React Hooks Week
 - [React Project Week](react_project.md) - React project week
