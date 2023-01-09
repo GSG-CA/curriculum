@@ -38,4 +38,4 @@
 - How do you set up a Node server that listens to different endpoints?
 - What is a typical server file structure?
 - How do you import (`require`) and export modules (`module.exports`)?
-- How are you testing your server functionality using `tape`?
+- How are you testing your server functionality using `jest`?
