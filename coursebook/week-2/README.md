@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 11:00 <br>
-  [Intro to Functions](./intro-to-functions-slides.md)
+  [Intro to Functions](./intro-to-functions/README.md)
 
 - 11:00 - 11:30 <br>
   [Intro to NPM](https://github.com/GSG-CA/npm-introduction)
@@ -34,7 +34,7 @@
   [ES6 morning challenge](https://github.com/GSG-CA/mc-es6-challenge/blob/master/ES6-ES5/README.md)
 
 - 10:30 - 13:00 <br>
-  [Intro to Functions](./intro-to-functions-slides.md)
+  [Intro to Functions](./intro-to-functions/README.md)
 
 — BREAK —
 
