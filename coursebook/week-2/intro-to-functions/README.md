@@ -1,7 +1,8 @@
 
 # Functions
-
 They're great.
+
+For mentors, please check [mentor notes](./mentor-notes.md)
 
 ---
 
