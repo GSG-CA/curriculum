@@ -344,7 +344,3 @@ gio trash FOLDER_NAME_OR_FILE_NAME
 To learn more about any command and it's flags, use `man` command which is short for **_"manual"_**.
 
 For example, to know more about `cp` command you can type `man cp`, use the arrow keys to move up and down. When you're finished, press `q` to quit.
-
----
-
-Now let's do some **exercises**
