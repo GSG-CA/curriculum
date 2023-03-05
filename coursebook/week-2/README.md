@@ -39,7 +39,7 @@
 ### Day 2
 
 - 09:00 - 10:30 <br>
-  [ES6 morning challenge](https://github.com/GSG-CA/mc-es6-challenge/blob/master/ES6-ES5/README.md)
+  [ES6 morning challenge](https://github.com/GSG-CA/mc-es6-challenge/blob/master/ES6-ES5)
 
 - 10:30 - 13:00 <br>
   [Intro to Functions](./intro-to-functions/README.md)
@@ -47,7 +47,7 @@
 — BREAK —
 
 - 13:00 - 16:00 <br>
-  [Convert from ES5 to ES6 challenge](https://github.com/GSG-CA/mc-es6-challenge/blob/master/ES5-ES6/README.md)
+  [Convert from ES5 to ES6 challenge](https://github.com/GSG-CA/mc-es6-challenge/tree/master/ES5-ES6)
 
 - 16:00 - 16:30 <br>
   [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
