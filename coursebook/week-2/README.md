@@ -46,7 +46,7 @@
 
 — BREAK —
 
-- 13:00 - 16:00 <br>
+- 14:00 - 16:00 <br>
   [Convert from ES5 to ES6 challenge](https://github.com/GSG-CA/mc-es6-challenge/tree/master/ES5-ES6)
 
 - 16:00 - 16:30 <br>
