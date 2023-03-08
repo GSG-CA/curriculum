@@ -83,7 +83,8 @@
 
 ### Day 5
 
-- 09:00 - 10:00 — Code review
+- 09:00 - 09:15 — [How to code review](./codereviewintro.md)
+- 09:15 - 10:00 — Code review
 - 10.00 - 11:00 — Respond to issues and plan presentations
 - 11:00 - 13:00 — Projects Presentation
 
