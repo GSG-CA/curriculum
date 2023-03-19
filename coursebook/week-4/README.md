@@ -10,7 +10,7 @@
 ### Day 1
 
 - 09:00 - 12:00 <br>
-  [Node Intro Workshop](https://github.com/GSG-CA/Node-Intro-Workshop)
+  [Node Intro Workshop](https://github.com/GSG-CA/Node-Intro-WS)
 
   — BREAK —
 
