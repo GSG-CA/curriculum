@@ -20,4 +20,4 @@ The aim of the project is to fulfill the requirements below!
 - Any user-submitted content should be labelled with the authors username
 - Website content should be stored in a database -PostgreSQL-
 - Username is visible on all (or some) pages of the site after logging in
-- Test your routes
+- Test your routes and your database
