@@ -14,4 +14,4 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 8](week-8/README.md) - NodeJS Extra Topics
 - [Week 9](week-9/README.md) - Reading Week
 - [Week 10](week-10/README.md) - React Week
-- [React Project Week](react_project.md) - React project week
+- [React Project Week](react-projects/ecommerce-hooks.md) - React project week
