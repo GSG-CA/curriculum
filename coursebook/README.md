@@ -15,4 +15,4 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 9](week-9/README.md) - Reading Week
 - [Week 10](week-10/README.md) - React Week
 - [Week 11](week-11/README.md) - React project week
-- [Week 12](week-12/README.md) - Advance React Week
+- [Week 12](week-12/README.md) - Front-End Advance Week
