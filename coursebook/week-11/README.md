@@ -1,4 +1,4 @@
-# React Week Project
+# React Project Week
 
 ## E-Commerce Website
 
