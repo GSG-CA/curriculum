@@ -1,4 +1,4 @@
-# Front-end Advance Week
+# Front-End Advance Week
 
 ### Day 1
 
