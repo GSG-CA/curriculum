@@ -13,6 +13,6 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 7](week-7/README.md) - Authentication
 - [Week 8](week-8/README.md) - NodeJS Extra Topics
 - [Week 9](week-9/README.md) - Reading Week
-- [Week 10](week-10/README.md) - React Week
-- [Week 11](week-11/README.md) - React project week
-- [Week 12](week-12/README.md) - Front-End Advance Week
+- [Week 10](week-10/README.md) - React
+- [Week 11](week-11/README.md) - React Project
+- [Week 12](week-12/README.md) - Advance Front-End
